@@ -1,2 +1,2 @@
 # git-talk
-demo repo for gti takl
+demo repo for git talk
